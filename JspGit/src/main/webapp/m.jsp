@@ -8,6 +8,6 @@
 <body>
   <h1>m.jsp입니다.</h1>
   <h2>local-1</h2>
-  <h2>local-3</h2>
+  <h2>local-10</h2>
 </body>
 </html>
